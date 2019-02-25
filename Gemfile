@@ -11,6 +11,10 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
 
+#style
+gem 'bootstrap', '~> 4.2.1'
+gem 'jquery-rails'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
@@ -33,6 +37,8 @@ gem 'jbuilder', '~> 2.5'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
+
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
